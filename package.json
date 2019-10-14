@@ -1,0 +1,23 @@
+{
+  "name": "levq",
+  "version": "0.0.0",
+  "description": "A simple queue service to handle jobs and messages with LevelDB and Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbkel/levq.git"
+  },
+  "keywords": [
+    "queue",
+    "leveldb",
+    "message",
+    "persistent",
+    "fast"
+  ],
+  "author": "“Guilherme Bromonschenkel <guilhermebromonschenkel@gmail.com”> (https://www.guilherr.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbkel/levq/issues"
+  },
+  "homepage": "https://github.com/gbkel/levq#readme"
+}
